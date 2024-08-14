@@ -1,2 +1,4 @@
 # Amazon_clone
-amazon clone
+This is my first git repository.
+<br>
+author: vaibhavi padile
